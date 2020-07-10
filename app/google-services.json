@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11308897147",
+    "firebase_url": "https://lakshadweep-f591e.firebaseio.com",
+    "project_id": "lakshadweep-f591e",
+    "storage_bucket": "lakshadweep-f591e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11308897147:android:acefc9a234708fe43ea3de",
+        "android_client_info": {
+          "package_name": "com.covid19.lakshadweep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11308897147-j48nn46cvmbh0t4q4i9f01n6pn2q6n1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfhEzGwbbjvGta0wmK11X8SxSpkSPJCeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11308897147-j48nn46cvmbh0t4q4i9f01n6pn2q6n1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
